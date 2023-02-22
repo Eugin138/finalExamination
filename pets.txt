@@ -1,0 +1,21 @@
+Dogs:
+  name: Joe
+    age: 2 years
+    color: white
+  name: Barsik
+    age: 1 year
+    color: black
+Cats:
+  name: Sindy
+    age: 1 year
+    color: reahead
+  name: Boris
+    age: 1 year
+    color: white
+Hamsters:
+  name: Don
+    age: 5 month
+    color: white
+  name: Bill
+    age: 7 month
+    color: grey
