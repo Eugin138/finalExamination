@@ -26,7 +26,7 @@ Horses:
   name: Tery
     age: 2 years
     color: white
-Вщт�Donkeys:
+Donkeys:
   name: Boy
     age: 1 year
     color: grey
